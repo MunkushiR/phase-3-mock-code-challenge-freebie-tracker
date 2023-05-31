@@ -5,5 +5,6 @@ class CreatFreebies < ActiveRecord::Migration[6.1]
       t.integer :value
       t.integer :company_id
       t. integer :dev_id
+    end
   end
 end
